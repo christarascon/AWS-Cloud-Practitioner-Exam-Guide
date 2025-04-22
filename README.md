@@ -46,13 +46,13 @@ These study notes are designed to help you with a quick revision before your exa
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well-Architected Framework Principles, Best Practices for Cloud Design, 6 Pillars of Well-Architected Framework, Right Sizing, AWS Ecosystem, Free Resources, AWS Marketplace
 
-## Practice Exams
+## Practice Exam
 
 - **[Premium Practice Exam](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
 
-## Other AWS Certification Practice Exam and Blogs
+## Other AWS Certification Practice Exams and Blogs
 
-- [AWS Certification](https://www.vmexam.com/aws)
+- [AWS Certification Practice Exams](https://www.vmexam.com/aws)
 - [How AWS AI Practitioner Certification Opens Doors to High-Paying AI Jobs](https://medium.com/@certifyinsider/how-aws-ai-practitioner-certification-opens-doors-to-high-paying-ai-jobs-62ce8923435c)
 - [[9 Steps] Guide to Becoming an AWS Solutions Architect Associate](https://medium.com/@certifyinsider/9-steps-guide-to-becoming-an-aws-solutions-architect-associate-29c3bc5c5762)
 - [SCS-C02 Certification FAQs & Study Guide](https://medium.com/@certifyinsider/scs-c02-certification-faqs-study-guide-84261ccdd5de)
