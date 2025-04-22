@@ -5,8 +5,7 @@ These study notes are designed to help you with a quick revision before your exa
 ![Logo](./images/Cloud-Practitioner.png)
 
 ## Table of contents
-
-- [Mind Map for outlining essential topics](https://kananinirav.com/mind-map-aws-ccp.html)
+- [Why AWS CLF-C02 Is Worth Your Investment?](https://www.vmexam.com/blog/why-aws-clf-c02-worth-your-investment)
 - [Study Guide](./study-guide.md)
 - [Cloud Computing](./sections/cloud_computing.md)
   - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
