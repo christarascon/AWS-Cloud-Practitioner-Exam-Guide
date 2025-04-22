@@ -1,11 +1,10 @@
-# AWS Cloud Practitioner Study Notes (CLF-C02)
+# AWS Cloud Practitioner Exam Guide (CLF-C02)
 
-- This will help you for quick revision before exam.
-- If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
+These study notes are designed to help you with a quick revision before your exam. Whether you are studying for the AWS Cloud Practitioner certification or already hold the certification but wish to keep your study notes handy, this guide will be a valuable resource. Feel free to return as often as you need! These are the same notes I used to prepare for and pass the exam.
 
 ![Logo](./images/Cloud-Practitioner.png)
 
-## Buy This AWS Cloud Practitioner Study Notes And Practice Exams PDF
+## Purchase the AWS Cloud Practitioner Study Notes and Practice Exams PDF
 
 ![Ebook_Cover](./images/Ebook_Cover.png)
 
@@ -62,25 +61,11 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 
-## Practice Exams ( dumps )
+## Practice Exams
 
-- **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+- **[Premium Practice Exam](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
 
-## Other AWS And Azure Certification Notes
+## Other IT Certification Practice Exam and Blogs
 
-- [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
-- [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
-
-### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
-
-<a href='https://ko-fi.com/I2I51B7WW2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
-
-<div class="hide-star">
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/AWS-Certified-Cloud-Practitioner-Notes&type=Date)](https://star-history.com/#kananinirav/AWS-Certified-Cloud-Practitioner-Notes&Date)
-
-</div>
+- [Other Certification](https://www.vmexam.com/other-certification)
+- [Read Blogs](https://medium.com/@certifyinsider)
