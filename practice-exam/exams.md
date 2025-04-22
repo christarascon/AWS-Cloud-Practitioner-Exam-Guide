@@ -2,11 +2,11 @@
 
 ## Free AWS Cloud Practitioner Practice Questions with answers
 
-Are you prepared? Utilize these free practice questions to assess your understanding. Test your knowledge with these free practice questions which will help you before the exam. Simply go through the below tests. you can see sample questions with the correct answers and detailed explanations or reference links.
+Are you ready to take the exam? Use these free practice questions to gauge your understanding. Test your knowledge with these sample questions, complete with correct answers and detailed explanations or reference links. Going through these tests will help solidify your preparation before the exam.
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
+Feel free to leave a comment below if you spot any inaccuracies or if any answers need adjustments.
 
-If this guide has been helpful to you please share it with others and react to this below.
+If this guide has been useful to you, please share it with others and leave a reaction below!
 
 ### Exam List
 
@@ -34,11 +34,6 @@ If this guide has been helpful to you please share it with others and react to t
 - [Practice Exam - 22](./practice-exam-22.md)
 - [Practice Exam - 23](./practice-exam-23.md)
 
-## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
+## Purchase Premium Practice Exams
 
-![Ebook_Cover](../images/Ebook_Cover.png)
-
-**[Sample PDF](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://ko-fi.com/s/26525f2067)** &nbsp; &nbsp; &nbsp;
-
-Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/7ERcTBI) (free for kindle unlimited users)**
+Access a comprehensive collection of practice exams and study resources for the AWS Cloud Practitioner Exam (CLF-C02) at **[AWS Cloud Practitioner Practice Exam](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**.
