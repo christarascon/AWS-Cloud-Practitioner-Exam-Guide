@@ -56,7 +56,7 @@ Prepare effectively with a set of realistic, exam-style questions tailored to th
 **👉[Start the Practice Test](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
 
 ## Other AWS Certification Practice Exams and Blogs
-
+Explore more AWS certification resources to help guide your learning and career journey:
 - [AWS Certification Practice Exams](https://www.vmexam.com/aws)
 - [How AWS AI Practitioner Certification Opens Doors to High-Paying AI Jobs](https://medium.com/@certifyinsider/how-aws-ai-practitioner-certification-opens-doors-to-high-paying-ai-jobs-62ce8923435c)
 - [[9 Steps] Guide to Becoming an AWS Solutions Architect Associate](https://medium.com/@certifyinsider/9-steps-guide-to-becoming-an-aws-solutions-architect-associate-29c3bc5c5762)
