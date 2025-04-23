@@ -52,8 +52,8 @@ Prepare effectively with a set of realistic, exam-style questions tailored to th
 - Sharpen your understanding of core AWS services and concepts
 - Identify knowledge gaps before the real exam
 - Boost your confidence and readiness
-- 
-- **[👉 Start the Practice Test](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
+
+**[👉 Start the Practice Test](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
 
 ## Other AWS Certification Practice Exams and Blogs
 
