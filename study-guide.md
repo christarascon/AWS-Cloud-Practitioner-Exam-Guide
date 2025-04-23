@@ -3,7 +3,7 @@
 - [Study Guide](#study-guide)
   - [Target candidate description](#target-candidate-description)
     - [Recommended AWS knowledge](#recommended-aws-knowledge)
-    - [What is considered out of scope for the target candidate?](#what-is-considered-out-of-scope-for-the-target-candidate)
+    - [Job Tasks that are Out of Scope for the Target Candidate](#Job-Tasks-that-are-Out-of-Scope-for- the-Target-Candidate)
   - [Exam content](#exam-content)
     - [Response types](#response-types)
     - [Unscored content](#unscored-content)
@@ -41,7 +41,7 @@ The **AWS Certified Cloud Practitioner (CLF-C02)** exam is intended for individu
 
 The target candidate has up to 6 months of exposure to AWS Cloud design, implementation, and/or operations. This certification is ideal for candidates who are from non-IT backgrounds. These candidates might be in the early stages of pursuing an AWS Cloud career or might work with people in AWS Cloud roles.
 
-## Recommended AWS Knowledge
+### Recommended AWS Knowledge
 
 The target candidate should have AWS knowledge in the following areas:
 
@@ -50,7 +50,7 @@ The target candidate should have AWS knowledge in the following areas:
 - Core AWS services
 - Economics of the AWS Cloud
 
-## Job Tasks that are Out of Scope for the Target Candidate
+### Job Tasks that are Out of Scope for the Target Candidate
 
 The following list contains job tasks that the target candidate is not expected to be able to perform. This list is non-exhaustive. These tasks are out of scope for the exam:
 
