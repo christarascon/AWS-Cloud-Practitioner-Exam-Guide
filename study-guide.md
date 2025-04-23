@@ -8,8 +8,9 @@
     - [Response types](#response-types)
     - [Unscored content](#unscored-content)
   - [Exam results](#exam-results)
+  - [Content outline](#content-outline)
   - [Domain 1: Cloud Concepts](#domain-1-cloud-concepts)
-    - [Define the AWS Cloud and its value proposition](#define-the-aws-cloud-and-its-value-proposition)
+    - [Task Statement 1.1: Define the benefits of the AWS Cloud](#task-statement-1-1-define-the-benefits-of-the-aws-cloud)
     - [Identify aspects of AWS Cloud economics](#identify-aspects-of-aws-cloud-economics)
     - [Explain the different cloud architecture design principles](#explain-the-different-cloud-architecture-design-principles)
   - [Domain 2: Security and Compliance](#domain-2-security-and-compliance)
@@ -79,7 +80,7 @@ Unanswered questions are scored as incorrect; there is no penalty for guessing. 
 
 The exam includes 15 unscored questions that do not affect your score. AWS collects information about performance on these unscored questions to evaluate these questions for future use as scored questions. These unscored questions are not identified on the exam.
 
-### Exam Results
+## Exam Results
 
 The **AWS Certified Cloud Practitioner (CLF-C02)** exam has a pass or fail designation. The exam is scored against a minimum standard established by AWS professionals who follow certification industry best practices and guidelines.
 
@@ -94,8 +95,6 @@ Each section of the exam has a specific weighting, so some sections have more qu
 This CLF-C02 exam guide includes weightings, content domains, and task statements for the exam. Refer to **Appendix B** for a comparison of the previous version (CLF-C01) and current version (CLF-C02) of the exam.
 
 This guide does not provide a comprehensive list of the content on the exam. However, additional context for each task statement is available to help you prepare for the exam.
-
-### Content Domains and Weightings
 
 The exam has the following content domains and weightings:
 
