@@ -3,7 +3,7 @@
 - [Study Guide](#study-guide)
   - [Target candidate description](#target-candidate-description)
     - [Recommended AWS knowledge](#recommended-aws-knowledge)
-    - [Job Tasks that are Out of Scope for the Target Candidate](#Job-Tasks-that-are-Out-of-Scope-for- the-Target-Candidate)
+    - [Job Tasks that are Out of Scope for the Target Candidate](#job-tasks-that-are-out-of-scope-for-the-target-candidate)
   - [Exam content](#exam-content)
     - [Response types](#response-types)
     - [Unscored content](#unscored-content)
