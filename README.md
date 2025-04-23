@@ -46,9 +46,14 @@ These study notes are designed to help you with a quick revision before your exa
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well-Architected Framework Principles, Best Practices for Cloud Design, 6 Pillars of Well-Architected Framework, Right Sizing, AWS Ecosystem, Free Resources, AWS Marketplace
 
-## Practice Exam
+## CLF-C02 Practice Test
+Prepare effectively with a set of realistic, exam-style questions tailored to the AWS Certified Cloud Practitioner (CLF-C02) exam. This practice test mirrors the actual exam format and difficulty level—helping you:
 
-- **[Premium Practice Exam](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
+- Sharpen your understanding of core AWS services and concepts
+- Identify knowledge gaps before the real exam
+- Boost your confidence and readiness
+- 
+- **[👉 Start the Practice Test](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**
 
 ## Other AWS Certification Practice Exams and Blogs
 
