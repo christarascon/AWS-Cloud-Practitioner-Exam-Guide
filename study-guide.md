@@ -10,7 +10,7 @@
   - [Exam results](#exam-results)
   - [Content outline](#content-outline)
   - [Domain 1: Cloud Concepts](#domain-1-cloud-concepts)
-    - [Task Statement 1.1: Define the benefits of the AWS Cloud](#task-statement-1-1-define-the-benefits-of-the-aws-cloud)
+    - [Task Statement 1.1: Define the benefits of the AWS Cloud](#task-statement-1.1-define-the-benefits-of-the-aws-cloud)
     - [Identify aspects of AWS Cloud economics](#identify-aspects-of-aws-cloud-economics)
     - [Explain the different cloud architecture design principles](#explain-the-different-cloud-architecture-design-principles)
   - [Domain 2: Security and Compliance](#domain-2-security-and-compliance)
