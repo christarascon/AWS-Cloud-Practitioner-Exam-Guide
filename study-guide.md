@@ -115,8 +115,6 @@ The exam has the following content domains and weightings:
 - **Domain 3**: Cloud Technology and Services (34% of scored content)
 - **Domain 4**: Billing, Pricing, and Support (12% of scored content)
 
----
-
 ## Domain 1: Cloud Concepts
 
 ### Task Statement 1.1: Define the Benefits of the AWS Cloud
@@ -161,8 +159,6 @@ The exam has the following content domains and weightings:
 - Understanding the concept of rightsizing
 - Identifying benefits of automation (for example, provisioning and configuration management with AWS CloudFormation)
 - Identifying managed AWS services (for example, Amazon RDS, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS], Amazon DynamoDB)
-
----
 
 ## Domain 2: Security and Compliance
 
@@ -221,8 +217,6 @@ The exam has the following content domains and weightings:
 - Identifying where AWS security information is available (for example, AWS Knowledge Center, AWS Security Center, AWS Security Blog)
 - Understanding the use of AWS services for identifying security issues (for example, AWS Trusted Advisor)
 
----
-
 ## Domain 3: Cloud Technology and Services
 
 ### Task Statement 3.1: Define Methods of Deploying and Operating in the AWS Cloud
@@ -254,8 +248,6 @@ The exam has the following content domains and weightings:
 - Recognizing that Availability Zones do not share single points of failure
 - Describing when to use multiple Regions (for example, disaster recovery, business continuity, low latency for end users, data sovereignty)
 - Describing at a high level the benefits of edge locations (for example, Amazon CloudFront, AWS Global Accelerator)
-
----
 
 ## Domain 4: Billing, Pricing, and Support
 
@@ -306,8 +298,6 @@ The exam has the following content domains and weightings:
 - Identifying the key services that AWS Marketplace offers (for example, cost management, governance and entitlement)
 - Identifying technical assistance options available at AWS (for example, AWS Professional Services, AWS Solutions Architects)
 
----
-
 ## Appendix A: Technologies and Concepts
 
 ### Technologies and Concepts that Might Appear on the Exam
@@ -344,8 +334,6 @@ This list is non-exhaustive and is subject to change. The order and placement of
 - AWS Support Center
 - AWS Support plans
 - AWS Well-Architected Framework
-
----
 
 ## Appendix B: Comparison of CLF-C01 and CLF-C02
 
