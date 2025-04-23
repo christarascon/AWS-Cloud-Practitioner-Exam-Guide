@@ -34,6 +34,6 @@ If this guide has been useful to you, please share it with others and leave a re
 - [Practice Exam - 22](./practice-exam-22.md)
 - [Practice Exam - 23](./practice-exam-23.md)
 
-## Purchase Premium Practice Exams
+## Practice Exams
 
 Access a comprehensive collection of practice exams and study resources for the AWS Cloud Practitioner Exam (CLF-C02) at **[AWS Cloud Practitioner Practice Exam](https://www.vmexam.com/aws/clf-c02-aws-cloud-practitioner)**.
